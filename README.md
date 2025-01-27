@@ -9,7 +9,8 @@
 2. Identificación de fuentes de información
 3. Creación de un mapa mental de lo investigado
 
-Ejemplo de mapa menta
+Ejemplo de mapa mental
+
 ![image](https://github.com/user-attachments/assets/688e4642-41dc-4654-8996-e6bc602579bb)
 
 ### Integrantes:
