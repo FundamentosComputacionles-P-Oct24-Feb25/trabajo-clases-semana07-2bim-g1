@@ -12,6 +12,10 @@
 Ejemplo de mapa menta
 ![image](https://github.com/user-attachments/assets/688e4642-41dc-4654-8996-e6bc602579bb)
 
+### Integrantes:
+## Michael Carrión
+## Pablo Ordóñez
+## Adrián Urgiles
 
 ### Temas
 
